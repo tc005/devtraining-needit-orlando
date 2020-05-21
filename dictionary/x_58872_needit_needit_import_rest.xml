@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Needit_Import Rest" max_length="40" name="x_58872_needit_needit_import_rest" sizeclass="0" type="collection"/>
+</database>
